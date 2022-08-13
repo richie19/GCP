@@ -1,0 +1,5 @@
+Billing Export Project
+Start console.cloud.google.com
+Go to Dashboard -> create new project -> Name as Admin Project -> 
+Add Dataset after clicking the 3 dots on the project name
+Do not select enable expiration because I do not want to lose the data set
