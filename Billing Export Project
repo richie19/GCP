@@ -1,5 +1,12 @@
 Billing Export Project
+/* Few facts about the billing export application:
+It is required for every billing project
+Resources should be assigned labels
+Resources need to be assigned to projects
+Exports are not real-time , they do have delays
 Start console.cloud.google.com
 Go to Dashboard -> create new project -> Name as Admin Project -> 
 Add Dataset after clicking the 3 dots on the project name
 Do not select enable expiration because I do not want to lose the data set
+Edit details -> + Labels
+
